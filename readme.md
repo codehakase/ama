@@ -10,9 +10,9 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 
 ### About me
 
-I'm Ire, a Front-End Developer and User Interface Designer based in Lagos, Nigeria. I write weekly technical articles on my blogs, [bitsofcode](https://bitsofco.de) & [Hello Angular](https://helloangular.com). I give talks about User Experience Design, Front-End development, or anything I find interesting. I design and build web applications. I currently work as Head of Technology at [Big Cabal](http://bigcabal.com). I build products & tools that are used by hundreds of developers, and [share the code](https://github.com/ireade).
+Hi there!! I'm Francis, a Software Developer based in Port Harcourt, Nigeria. I get find myself drunk in Web Development, Open source contribution, User Experience Design, Front-End development, or anything I find interesting. I design and build web applications. I currently work as a Full stack Web Developer and Trainer at [Loctech Nig](http://loctechng.com).
 
-I'm [@IreAderinokun](https://www.twitter.com/ireaderinokun) on twitter.
+I'm [@iamfrankcute](https://www.twitter.com/iamfrankcute) on twitter.
 
 ### Guidelines
 
