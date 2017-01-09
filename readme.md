@@ -10,7 +10,7 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 
 ### About me
 
-Hi there!! I'm Francis, a Software Developer based in Port Harcourt, Nigeria. I get find myself drunk in Web Development, Open source contribution, User Experience Design, Front-End development, or anything I find interesting. I design and build web applications. I currently work as a Full stack Web Developer and Trainer at [Loctech Nig](http://loctechng.com).
+Hi there!! I'm Francis, a Software Developer based in Port Harcourt, Nigeria. I find myself surfing in the realm of Web Development, Open source contribution, User Experience Design, Front-End development, or anything I find interesting. I design and build web applications. I currently work as a Full stack Web Developer and Trainer at [Loctech Nig](http://loctechng.com).
 
 I'm [@iamfrankcute](https://www.twitter.com/iamfrankcute) on twitter.
 
